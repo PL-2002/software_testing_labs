@@ -1,0 +1,1 @@
+export default{ coverage: { provider: 'istanbul', reporter: ['text', 'html'], include: ['src/js/**/*.js'], exclude: ['node_module', 'test'] }}
